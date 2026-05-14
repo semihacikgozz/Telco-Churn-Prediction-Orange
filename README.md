@@ -13,6 +13,6 @@ Bu proje bir telekomünikasyon şirketindeki müşterilerin hizmeti terk etme (c
 3. **Modelleme:** Veri %80 eğitim, %20 test olarak ayrıldı.
 4. **Performans Ölçümü:** Modeller AUC ve CA değerlerine göre kıyaslandı.
 
-## 📈 Sonuçlar
+## Sonuçlar
 * **En İyi Model:** Logistic Regression (%81 Doğruluk oranı).
 * **Kritik Bulgular:** En yüksek risk grubunun "Month-to-month" sözleşmeli müşteriler olduğu tespit edildi.
